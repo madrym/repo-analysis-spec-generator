@@ -2,8 +2,6 @@
 
 A powerful tool that leverages AI to analyze GitHub repositories and generate comprehensive feature specifications for software development projects.
 
-![Repository Analysis & Feature Spec Generator](https://placeholder.svg?height=400&width=800&query=Repository+Analysis+and+Feature+Specification+Generator+Dashboard)
-
 ## Features
 
 ### Repository Analysis
